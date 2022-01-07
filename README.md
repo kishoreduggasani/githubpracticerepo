@@ -1,2 +1,2 @@
 # githubpracticerepo
-git hub practice repository
+git hub practice repository demo
